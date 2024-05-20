@@ -1,10 +1,27 @@
-header {
+/* header {
     margin: 30px 90px;
 }
 
 .header-info a {
     font-size: 20px;
     font-weight: 400;
+}
+
+.header-icons svg {
+    font-size: 22px;
+} */
+
+.navbar {
+    padding: 30px 90px !important;
+}
+
+.header-info li a {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.navbar-start {
+    width: 78% !important;
 }
 
 .header-icons svg {

@@ -10,6 +10,8 @@ export default {
       jost: ['Jost'],
     },
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+  ],
 }
 
