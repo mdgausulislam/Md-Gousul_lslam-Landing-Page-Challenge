@@ -1,37 +1,3 @@
-// import React from 'react';
-// import logo from '../../assets/EyeGlass.png'
-// import { Link } from 'react-router-dom';
-// import { FaUser } from "react-icons/fa";
-// import { FaShoppingCart } from "react-icons/fa";
-// import './Header.css'
-
-// const Header = () => {
-//     return (
-//         <header className='flex items-center justify-between'>
-//             <div>
-//                 <img src={logo} alt="" />
-//             </div>
-//             <div className='flex items-center justify-center gap-8 header-info'>
-//                 <Link>Home</Link>
-//                 <Link>About Us</Link>
-//                 <Link>Products</Link>
-//                 <Link>Features</Link>
-//                 <Link>Reviews</Link>
-//                 <Link>Contact Us</Link>
-//             </div>
-//             <div className='flex items-center justify-center gap-4 header-icons'>
-//                 <Link><FaShoppingCart /></Link>
-//                 <Link><FaUser /></Link>
-//             </div>
-
-//         </header>
-//     );
-// };
-
-// export default Header;
-
-
-
 import React from 'react';
 import logo from '../../assets/EyeGlass.png'
 import { Link } from 'react-router-dom';
@@ -41,7 +7,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar md:py-8 md:px-24  bg-base-100">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -68,7 +34,7 @@ const Header = () => {
                     <li><Link>Contact Us</Link></li>
                 </ul>
             </div>
-            <div className="navbar-end gap-6 header-icons">
+            <div className="navbar-end gap-8 header-icons">
                 <Link><FaShoppingCart /></Link>
                 <Link><FaUser /></Link>
             </div>
