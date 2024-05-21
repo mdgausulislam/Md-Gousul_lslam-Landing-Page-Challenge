@@ -26,7 +26,7 @@ const Header = () => {
                         <li><Link to="/contact">Contact Us</Link></li>
                     </ul>
                 </div>
-                <a className="btn text-xl"><img src={logo} alt="Logo" /></a>
+                <Link to={'/'} className="btn text-xl"><img src={logo} alt="Logo" /></Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 gap-4 header-info">

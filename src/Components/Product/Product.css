@@ -1,0 +1,17 @@
+.buyButton3 {
+    padding: 5px 20px;
+    background-color: #FED29C;
+    color: #FFFFFF;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.buyButton3:hover{
+    background-color: #af7835;
+    color: #FFFFFF;
+}

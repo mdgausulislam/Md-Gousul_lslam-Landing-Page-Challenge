@@ -9,7 +9,6 @@ const HomePage = () => {
     return (
         <div>
             <BannerSection />
-            <LifeCycle />
             <GlassDiscount />
             <About />
             <Product />

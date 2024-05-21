@@ -6,6 +6,7 @@ import { Pagination } from 'swiper/modules';
 import bannerImg from '../../assets/banner-overlay.png';
 import { FaShoppingCart } from "react-icons/fa";
 import './banner.css';
+import LifeCycle from '../../Components/LifeCycle/LifeCycle';
 
 const BannerSection = () => {
     return (
@@ -34,6 +35,7 @@ const BannerSection = () => {
                     <div className="circle"></div>
                 </SwiperSlide>
             </Swiper>
+            <LifeCycle />
         </div>
     );
 };

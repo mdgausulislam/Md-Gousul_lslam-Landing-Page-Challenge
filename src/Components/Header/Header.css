@@ -10,3 +10,12 @@
 .header-icons svg {
     font-size: 22px;
 }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #ffffff; /* Adjust as necessary */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

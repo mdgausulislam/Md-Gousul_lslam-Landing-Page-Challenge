@@ -17,15 +17,15 @@ const LifeCycle = () => {
             />
             <LifeCycleStep
                 icon={<PiSunglassesFill />}
-                title="Select Sunglass"
-                description="Shade Your Style"
+                title="Selected Sunglass"
+                description="Shade Your Style now"
                 stepClass="hr1"
                 dotClass="dots-sml1"
             />
             <LifeCycleStep
                 icon={<MdOutlinePayment />}
                 title="Make Payment"
-                description="Securely Checkout Now"
+                description="Securely Checkout"
                 stepClass="hr2"
                 dotClass="dots-sml2"
             />
@@ -49,8 +49,8 @@ const LifeCycleStep = ({ icon, title, description, stepClass, dotClass }) => (
             {stepClass && <hr className={`w-[160px] border-t-2 border-dashed border-gray-800 absolute bottom-[130px] ${stepClass}`} />}
             {dotClass && <span className={`w-[15px] h-[15px] bg-[#FED29C] border border-[#FED29C] rounded-full absolute bottom-[125.5px] ${dotClass}`}></span>}
         </div>
-        <h6 className="text-xl font-bold text-gray-800">{title}</h6>
-        <p className="text-base text-gray-600">{description}</p>
+        <h6 className="text-sm md:text-xl font-bold text-gray-800">{title}</h6>
+        <p className="text-xs md:text-base text-gray-600">{description}</p>
     </div>
 );
 
