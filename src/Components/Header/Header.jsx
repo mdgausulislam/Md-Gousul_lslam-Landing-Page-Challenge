@@ -47,7 +47,7 @@ const Header = () => {
                         )
                     }
                 </Link>
-                <Link to="/profile"><FaUser /></Link>
+                <Link to="/login"><FaUser /></Link>
             </div>
         </div>
     );
