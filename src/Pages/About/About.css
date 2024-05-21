@@ -1,4 +1,4 @@
-.card {
+.card-list {
     background-color: #FED29C;
     justify-content: center;
 }
@@ -20,7 +20,7 @@
     align-items: center;
 }
 
-.card-title {
+.card-name {
     font-size: 34px;
     font-weight: 700;
     line-height: 1.1;

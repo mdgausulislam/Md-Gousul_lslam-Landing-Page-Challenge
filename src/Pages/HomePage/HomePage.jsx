@@ -1,9 +1,9 @@
 import React from 'react';
-import BannerSection from '../BannerSection/BannerSection';
-import Product from '../../Components/Product/Product';
 import LifeCycle from '../../Components/LifeCycle/LifeCycle';
 import About from '../About/About';
 import GlassDiscount from '../../Components/GlassDiscount/GlassDiscount';
+import Product from '../../Components/Product/Product'
+import BannerSection from '../BannerSection/BannerSection';
 
 const HomePage = () => {
     return (
