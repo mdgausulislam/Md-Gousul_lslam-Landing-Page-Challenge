@@ -7,46 +7,51 @@ import { TbTruckDelivery } from "react-icons/tb";
 
 const LifeCycle = () => {
     return (
-        <div className="LifeCycle-container">
-            <div className='text-center'>
-                <div className='flex items-start justify-center z-10'>
-                    <span className="icon-container"><CgSearch /></span>
-                    <hr className='hr' />
-                    <span className='dots-sml'></span>
-                </div>
-                <h6 className='text-xl font-bold'>Search your sunglass</h6>
-                <p className='text-base font-normal'>Shop Stylish Eyewear Now</p>
-            </div>
-
-            <div className=''>
-                <div className='flex items-start justify-center z-10'>
-                    <span className="icon-container"><PiSunglassesFill /></span>
-                    <hr className='hr1' />
-                    <span className='dots-sml1'></span>
-                </div>
-                <h6 className='text-xl font-bold'>Select Sunglass </h6>
-                <p className='text-base font-normal'>Shade Your Style</p>
-            </div>
-            <div className=''>
-                <div className='flex items-start justify-center z-10'>
-                    <span className="icon-container"><MdOutlinePayment /></span>
-                    <hr className='hr2' />
-                    <span className='dots-sml2'></span>
-                </div>
-                <h6 className='text-xl font-bold'>Make Payment</h6>
-                <p className='text-base font-normal'>Securely Checkout Now</p>
-            </div>
-            <div className=''>
-                <div className='flex items-start justify-center z-10'>
-                    <span className="icon-container"><TbTruckDelivery /></span>
-                </div>
-                <h6 className='text-xl font-bold'>Received Product </h6>
-                <p className='text-base font-normal'>See the World Clearly</p>
-            </div>
+        <div className="LifeCycle-container flex flex-col md:flex-row items-center justify-between text-center px-6 md:px-36 absolute top-[665px] z-30 w-full">
+            <LifeCycleStep
+                icon={<CgSearch />}
+                title="Search your sunglass"
+                description="Shop Stylish Eyewear Now"
+                stepClass="hr"
+                dotClass="dots-sml"
+            />
+            <LifeCycleStep
+                icon={<PiSunglassesFill />}
+                title="Select Sunglass"
+                description="Shade Your Style"
+                stepClass="hr1"
+                dotClass="dots-sml1"
+            />
+            <LifeCycleStep
+                icon={<MdOutlinePayment />}
+                title="Make Payment"
+                description="Securely Checkout Now"
+                stepClass="hr2"
+                dotClass="dots-sml2"
+            />
+            <LifeCycleStep
+                icon={<TbTruckDelivery />}
+                title="Received Product"
+                description="See the World Clearly"
+                stepClass=""
+                dotClass=""
+            />
         </div>
     );
 };
 
+const LifeCycleStep = ({ icon, title, description, stepClass, dotClass }) => (
+    <div className="mb-8 md:mb-0">
+        <div className="flex flex-col items-center">
+            <span className="icon-container flex items-center justify-center bg-[#FED29C] border border-[#FED29C] w-[90px] h-[90px] rounded-full mb-8">
+                {icon}
+            </span>
+            {stepClass && <hr className={`w-[160px] border-t-2 border-dashed border-gray-800 absolute bottom-[130px] ${stepClass}`} />}
+            {dotClass && <span className={`w-[15px] h-[15px] bg-[#FED29C] border border-[#FED29C] rounded-full absolute bottom-[125.5px] ${dotClass}`}></span>}
+        </div>
+        <h6 className="text-xl font-bold text-gray-800">{title}</h6>
+        <p className="text-base text-gray-600">{description}</p>
+    </div>
+);
+
 export default LifeCycle;
-
-
