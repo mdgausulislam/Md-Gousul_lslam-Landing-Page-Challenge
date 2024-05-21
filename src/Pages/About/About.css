@@ -14,7 +14,7 @@
 }
 
 .card-body h6,
-p {
+.details {
     display: flex;
     justify-content: center;
     align-items: center;
