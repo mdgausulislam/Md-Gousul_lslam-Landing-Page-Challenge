@@ -28,11 +28,11 @@ const Product = () => {
     return (
         <div className='lg: container mx-auto mt-5 py-5 px-4 lg:px-28'>
             <h1 className='text-3xl font-bold pb-3'>Our Product</h1>
-            <div className='flex justify-between items-center'>
+            <div className='flex flex-col md:flex-row justify-between items-center'>
                 <div>
                     <p>Experience crystal clear vision and elevated style with our <br />premium collection of eyeglasses.</p>
                 </div>
-                <div className="join join-vertical md:join-horizontal">
+                <div className="join join-horizontal md:join-horizontal my-6 md:my-0">
                     <button className="buyButton3 join-item" onClick={() => handleFilterChange('latest')}>Latest</button>
                     <button className="buyButton3 join-item" onClick={() => handleFilterChange('special')}>Special</button>
                     <button className="buyButton3 join-item" onClick={() => handleFilterChange('bestseller')}>Best Seller</button>

@@ -19,7 +19,6 @@ const CartItem = ({ product }) => {
 
     const handleAddToCart = () => {
         addToCart(product);
-        alert(`${product.productName} has been added to the cart`);
     };
 
     return (

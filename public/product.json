@@ -1,9 +1,9 @@
 [
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 29.99,
       "oldPrice": 39.99,
@@ -12,9 +12,9 @@
     },
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -23,9 +23,9 @@
     },
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -34,9 +34,9 @@
     },
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -45,9 +45,9 @@
     },
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -56,9 +56,9 @@
     },
     {
       "images": [
-        "../src/assets/1.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/WfPnpTr/1.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -67,9 +67,9 @@
     },
     {
       "images": [
-        "../src/assets/4.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/L9M2qNd/4.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
@@ -78,9 +78,9 @@
     },
     {
       "images": [
-        "../src/assets/4.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/L9M2qNd/4.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
@@ -89,9 +89,9 @@
     },
     {
       "images": [
-        "../src/assets/4.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/L9M2qNd/4.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
@@ -100,19 +100,20 @@
     },
     {
       "images": [
-        "../src/assets/4.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/L9M2qNd/4.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product D"
     },
-    { "images": [
-      "../src/assets/4.png",
-      "../src/assets/2.png",
-      "../src/assets/3.png"
+    {  
+      "images": [
+      "https://i.ibb.co/L9M2qNd/4.png",
+      "https://i.ibb.co/LPnRFVF/2.png",
+      "https://i.ibb.co/jT66PGJ/3.png"
     ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
@@ -121,9 +122,9 @@
     },
     {
       "images": [
-        "../src/assets/4.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/L9M2qNd/4.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
@@ -132,9 +133,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
@@ -143,9 +144,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
@@ -154,9 +155,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
@@ -165,9 +166,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
@@ -176,9 +177,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
@@ -187,9 +188,9 @@
     },
     {
       "images": [
-        "../src/assets/5.png",
-        "../src/assets/2.png",
-        "../src/assets/3.png"
+        "https://i.ibb.co/GVVZVq1/5.png",
+        "https://i.ibb.co/LPnRFVF/2.png",
+        "https://i.ibb.co/jT66PGJ/3.png"
       ],
       "netPrice": 49.99,
       "oldPrice": 59.99,

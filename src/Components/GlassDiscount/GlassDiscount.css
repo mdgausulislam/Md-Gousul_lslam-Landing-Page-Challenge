@@ -95,3 +95,27 @@
         height: 600px;
     }
 }
+
+
+@media (min-width: 1200px){
+    .discount-container {
+        margin-bottom: 250px;
+    }
+    .productDiscount-1 {
+        height: 600px;
+        margin-bottom: 130px;
+    }
+
+    .productDiscount-2 {
+        height: 400px;
+    }
+
+    .productDiscount-3 {
+        height: 400px;
+        margin-bottom: 105px;
+    }
+
+    .productDiscount-4 {
+        height: 600px;
+    }
+}
