@@ -5,6 +5,7 @@ import Login from '../Pages/Login/Login'
 import Cart from '../Pages/Cart/Cart'
 import About from '../Pages/About/About'
 import Product from '../Components/Product/Product'
+import Footer from '../Components/Footer/Footer'
 
 const router = createBrowserRouter([
     {
@@ -30,7 +31,7 @@ const router = createBrowserRouter([
             {
                 path: "products",
                 element: <Product />
-            },
+            }
         ]
     }
 ])

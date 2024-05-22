@@ -16,6 +16,35 @@
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-color: #ffffff; /* Adjust as necessary */
+    background-color: #ffffff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.menu.dropdown-content {
+    padding: 20px;
+}
+
+
+.menu.dropdown-content li a {
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.menu.dropdown-content li a:hover {
+    background-color: #FED29C;
+}
+
+/* Horizontal menu items */
+.navbar-center .menu-horizontal li {
+    display: inline-block;
+}
+
+
+.navbar-center .menu-horizontal li a {
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.navbar-center .menu-horizontal li a:hover {
+    background-color: #FED29C;
 }
