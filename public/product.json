@@ -1,9 +1,9 @@
 [
     {
       "images": [
-        "../public/1.png",
-        "../public/2.png",
-        "../public/3.png"
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
       ],
       "netPrice": 29.99,
       "oldPrice": 39.99,
@@ -12,9 +12,9 @@
     },
     {
       "images": [
-        "../public/1.png",
-        "../public/2.png",
-        "../public/3.png"
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
       ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
@@ -22,176 +22,175 @@
       "productName": "Special Product B"
     },
     {
-        "images": [
-            "../public/1.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
       "type": "special",
       "productName": "Special Product C"
     },
     {
-        "images": [
-            "../public/1.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
       "type": "special",
       "productName": "Special Product D"
     },
     {
-        "images": [
-            "../public/1.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
       "type": "special",
       "productName": "Special Product E"
     },
     {
-        "images": [
-            "../public/1.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/1.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 34.99,
       "oldPrice": 44.99,
       "type": "special",
       "productName": "Special Product F"
     },
     {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/4.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product A"
     },
     {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/4.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product B"
     },
     {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/4.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product C"
     },
     {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/4.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product D"
     },
-    {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+    { "images": [
+      "../src/assets/4.png",
+      "../src/assets/2.png",
+      "../src/assets/3.png"
+    ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product E"
     },
     {
-        "images": [
-            "../public/4.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/4.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 39.99,
       "oldPrice": 49.99,
       "type": "latest",
       "productName": "Latest Product F"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
       "productName": "Bestseller Product A"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
       "productName": "Bestseller Product B"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
       "productName": "Bestseller Product C"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
       "productName": "Bestseller Product D"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
       "productName": "Bestseller Product E"
     },
     {
-        "images": [
-            "../public/5.png",
-            "../public/2.png",
-            "../public/3.png"
-          ],
+      "images": [
+        "../src/assets/5.png",
+        "../src/assets/2.png",
+        "../src/assets/3.png"
+      ],
       "netPrice": 49.99,
       "oldPrice": 59.99,
       "type": "bestseller",
