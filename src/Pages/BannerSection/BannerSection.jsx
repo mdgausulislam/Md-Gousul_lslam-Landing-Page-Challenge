@@ -21,10 +21,10 @@ const BannerSection = () => {
                     <span className="circle absolute w-[500px] h-[500px] md:w-[300px] md:h-[300px] bg-[#FED29C] rounded-full"></span>
                     <img src={bannerImg} alt="" className="bannerImg absolute bottom-0 w-[550px] h-[560px] md:w-[300px] md:h-[300px] z-10" />
                     <div className="bannerInfo absolute z-20 text-gray-800 left-[200px] md:left-[50px]">
-                        <h3 className="text-[40px] md:text-[24px] font-bold mb-4">Personalized Eyeglass <br />Shopping</h3>
+                        <h3 className="title font-bold mb-4">Personalized Eyeglass <br />Shopping</h3>
                         <button className="buyButton flex items-center justify-center w-[184px] h-[54px] bg-gray-800 text-white rounded-md hover:bg-gray-700">
                             <FaShoppingCart className="mr-2 h-[18px] w-[18px]" />
-                            <span className="text-[18px] font-bold">Buy Now</span>
+                            <span className="font-bold">Buy Now</span>
                         </button>
                     </div>
                 </SwiperSlide>
